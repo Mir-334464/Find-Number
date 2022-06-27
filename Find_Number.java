@@ -10,11 +10,11 @@ class Find_Number
 
         Scanner sc=new Scanner(System.in);
       
-        System.out.println("Enter Any Number");
+        System.out.print("Enter Any Number: ");
        
         int N=sc.nextInt();
 
-       System.out.println("Enter Number You Want To Find");
+       System.out.print("Enter Number You Want To Find: ");
        
         int num=sc.nextInt();
 
