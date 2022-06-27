@@ -35,8 +35,7 @@ N=N/10;
 
 if(Count>0)
   {
-System.out.println("Number Found :" +num);
-System.out.println(+num+" is"+Count+ " Times in Given Number");
+System.out.println("Number Found :" +Count+"Times");
 }
 else
 System.out.println("Number Not Found :" +num);
