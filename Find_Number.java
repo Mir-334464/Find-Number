@@ -40,7 +40,7 @@ if(c==1)
 System.out.println("Number is Found :" +num);
 
 else
-System.out.println("Number Not Found :" +num);
+System.out.println("Number Not Found :" );
 
     }
 }
